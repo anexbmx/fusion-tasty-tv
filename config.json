@@ -1,0 +1,20 @@
+{
+    "tv1": [
+      {
+        "type": "image",
+        "src": "https://anexbmx.github.io/fusion-tasty-tv/media/overload-fries.jpg"
+      }
+    ],
+    "tv2": [
+      {
+        "type": "image",
+        "src": "https://anexbmx.github.io/fusion-tasty-tv/media/overload-wraps.jpg"
+      }
+    ],
+    "tv3": [
+      {
+        "type": "image",
+        "src": "https://anexbmx.github.io/fusion-tasty-tv/media/overload-fries.jpg"
+      }
+    ]
+  }

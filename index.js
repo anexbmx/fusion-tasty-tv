@@ -4,8 +4,8 @@ const { spawn } = require('child_process');
 const fs = require('fs');
 
 const imagePath = '/home/pi/fusion-tasty-tv/media/overload-fries.jpg';
-//const imagePath = '/home/pi/fusionTasty/media/overload-wraps.jpg';
-//const imagePath = '/home/pi/fusionTasty/media/main.jpg';
+//const imagePath = '/home/pi/fusion-tasty-tv/media/overload-wraps.jpg';
+//const imagePath = '/home/pi/fusion-tasty-tv/media/main.jpg';
 
 // Check if the image file exists
 if (fs.existsSync(imagePath)) {
